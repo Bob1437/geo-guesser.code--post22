@@ -26,15 +26,34 @@ Click on Greece because it is the corresponding number to the image. Another fun
 
 ### James
 
-Learn to use jinja to incorporate python into HTML.
+Learn to use Flask and Jinja to incorporate python into HTML. Also learned to use post, git, and requests.
 
 Proof of learning: Data.py, main.py (route to geoguesser.html and import Data), geoguesser.html
+
+Flask: https://github.com/kenzie-rylie/geo-guesser.code-/blob/857fbf5fea3ae300911ec6a18cafc29c8cbd70fb/main.py#L30-L32
+
+post: https://github.com/kenzie-rylie/geo-guesser.code-/blob/275ffa04c8fee01b733942ba0843f37f3fbfb84d/main.py#L34-L66
+
+Html/Jinja: https://github.com/kenzie-rylie/geo-guesser.code-/blob/265e4b92495badf2e961e41dfe0b99a9c732efa4/templates/geoguesser.html#L27-L48
+
+Python: https://github.com/kenzie-rylie/geo-guesser.code-/blob/265e4b92495badf2e961e41dfe0b99a9c732efa4/main.py#L34-L66 as well as entire Data.py file
+
+Requests: https://github.com/kenzie-rylie/geo-guesser.code-/blob/265e4b92495badf2e961e41dfe0b99a9c732efa4/main.py#L36-L38
 
 ### Kenzie
 
 Learn how to incorporate jinja. Finish the front end of the website(html and css). Speak up more and converse more with team. Ask more questions.
 
 Proof of learning: All files except gg-covid.html & Data.py & geoguesser.html
+
+flask: https://github.com/kenzie-rylie/geo-guesser.code-/blob/857fbf5fea3ae300911ec6a18cafc29c8cbd70fb/main.py#L30-L32 
+
+html/Jinja: https://github.com/kenzie-rylie/geo-guesser.code-/blob/857fbf5fea3ae300911ec6a18cafc29c8cbd70fb/templates/nav-bar.html
+            https://github.com/kenzie-rylie/geo-guesser.code-/tree/857fbf5fea3ae300911ec6a18cafc29c8cbd70fb/templates 
+
+Python: https://github.com/kenzie-rylie/geo-guesser.code-/blob/857fbf5fea3ae300911ec6a18cafc29c8cbd70fb/Data.py
+
+Requests:
 
 ### Lucas 
 
@@ -47,6 +66,11 @@ Proof of learning: geo-guesser.code- / templates / gg-history.html, README.md, &
 Format and style all of the history pages. Make small revisions where needed.
 
 Proof of learning: style.css, gg-history.html, history-africa.html, history-america.html, history-brazil.html, history-denmark.html, history-greece.html, history-iceland.html, history-india.html
+
+HTML: https://github.com/kenzie-rylie/geo-guesser.code-/blob/c2e7e47ce29ff0c89c1bb308d09671668ea2d225/templates/gg-history.html#L4-L16
+      (x7 for each history page)-> https://github.com/kenzie-rylie/geo-guesser.code-/blob/a689d9a0deda64c10dbfecb178d3f709cb757150/templates/history-america.html#L3-L19
+
+CSS: https://github.com/kenzie-rylie/geo-guesser.code-/blob/a689d9a0deda64c10dbfecb178d3f709cb757150/static/style.css#L114-L239
 
 ### Kira
 
