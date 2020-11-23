@@ -75,9 +75,12 @@ CSS: https://github.com/kenzie-rylie/geo-guesser.code-/blob/a689d9a0deda64c10dbf
 ### Kira
 
 Make an interactable interface on the website. Create the live covid cases tab for each country.
-Note: I accidentally added my entire project folder to the repository, which is why covidscraper.py is in its own folder.
 
 Proof of learning: gg-covid.html, mapclickproject / covidscraper.py
+
+HTML/Jinja: https://github.com/kenzie-rylie/geo-guesser.code-/blob/master/templates/gg-covid.html
+
+Python: https://github.com/kenzie-rylie/geo-guesser.code-/blob/master/scraping.py
 
 
 ## File Descriptions 
